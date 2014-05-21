@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nombre: MyString
+  entrenador: MyString
+  bandera: MyString
+  uniforme: MyString
+  historia: MyText
+
+two:
+  nombre: MyString
+  entrenador: MyString
+  bandera: MyString
+  uniforme: MyString
+  historia: MyText
